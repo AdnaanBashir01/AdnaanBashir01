@@ -1,6 +1,6 @@
 
 # 💫 About Me:
-Frontend Developer with hands-on experience building responsive and user-friendly web applications using HTML,<br>CSS, JavaScript, and React. Passionate about clean UI, performance, and learning modern web technologies<br>through real-world projects.
+B-tech CSE.
 
 
 ## 🌐 Socials:
