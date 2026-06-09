@@ -1,6 +1,9 @@
 
 # 💫 About Me:
-B-tech CSE.
+🎓 BTech CSE Final Year Student
+💻 Learning Full Stack Web Development
+🚀 Building projects and pushing code daily
+🎯 Goal: Junior Developer by December 2026
 
 
 ## 🌐 Socials:
@@ -12,4 +15,6 @@ B-tech CSE.
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 # 📊 GitHub Stats:
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AdnaanBashir01&show_icons=true&theme=dark)
 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AdnaanBashir01&theme=dark)
