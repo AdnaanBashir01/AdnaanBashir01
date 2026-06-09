@@ -15,6 +15,5 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 # 📊 GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AdnaanBashir01&show_icons=true&theme=dark)
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AdnaanBashir01&show_icons=true&theme=dark&hide_border=true)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AdnaanBashir01&theme=dark)
