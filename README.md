@@ -17,4 +17,4 @@
 # 📊 GitHub Stats:
 ## 📊 GitHub Stats:
 
-![GitHub Streak](https://streak-stats.demolab.com?user=AdnaanBashir01&theme=dark&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=AdnaanBashir01&theme=dark&hide_border=true)
